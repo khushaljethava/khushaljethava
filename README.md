@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center"><h1 align="center"><samp> I am Khushal Jethava </samp></h1></p>
+<p align="center"><h4 align="center"><samp> A Software Engineer, & A Technical Writer </samp></h4></p>
+<br>
+<div>
+
 <!--
 **khushaljethava/khushaljethava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
