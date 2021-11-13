@@ -15,12 +15,11 @@
 - 👯 <samp>I’m looking to collaborate on projects related to Python.
 <!-- - ⚡ <samp>Fun fact: Trap Nation is my buddy. -->
 <!-- - 👯 <samp>I’m looking to collaborate on **Open Source Projects** -->
-<!-- - ⚡ <samp>I’m a organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh) & [Flutter India](https://flutterindia.dev/).-->
- <!--- 🤖 <samp>Creator of [#GitHubWrapped](https://twitter.com/GitHubWrapped) & [#100DaysOfFlutter](https://twitter.com/100xFlutter) bots. -->
+<!-- - ⚡ <samp>I’m a organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh) & [Flutter India](https://flutterindia.dev/). -->
+<!-- - 🤖 <samp>Creator of [#GitHubWrapped](https://twitter.com/GitHubWrapped) & [#100DaysOfFlutter](https://twitter.com/100xFlutter) bots. -->
 <!-- - 😄 <samp>I’m the creator of [#100DaysOfFlutter Challenge](https://100daysofflutter.azurewebsites.net/#/).-->
   </div>
-<!--
-**khushaljethava/khushaljethava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**khushaljethava/khushaljethava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
