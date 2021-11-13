@@ -17,7 +17,7 @@
 <!-- - 👯 <samp>I’m looking to collaborate on **Open Source Projects** -->
 <!-- - ⚡ <samp>I’m a organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh) & [Flutter India](https://flutterindia.dev/). -->
 <!-- - 🤖 <samp>Creator of [#GitHubWrapped](https://twitter.com/GitHubWrapped) & [#100DaysOfFlutter](https://twitter.com/100xFlutter) bots. -->
-  </div>
+
 <!--**khushaljethava/khushaljethava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -65,3 +65,4 @@ Here are some ideas to get you started:
   
   
   
+  </div>
