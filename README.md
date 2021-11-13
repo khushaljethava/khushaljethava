@@ -80,7 +80,7 @@ Here are some ideas to get you started:
  
 ##
  
-<a href="https://stackoverflow.com/users/13469415/khushal-jethava"><img src="https://stackoverflow.com/users/flair/13469415.png" width="208" height="58" alt="profile for Khushal Jethava at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Khushal Jethava at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackexchange.com/users/17170477"><img src="https://stackexchange.com/users/flair/17170477.png" width="208" height="58" alt="profile for Khushal Jethava on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Khushal Jethava on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ##
  
