@@ -62,6 +62,8 @@ Here are some ideas to get you started:
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
   
+ ##
+ 
 <details>
   <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
 <br>
@@ -69,8 +71,18 @@ Here are some ideas to get you started:
  </p>
 
 </details>  
-  
+
+ ##
  
+ <h4><b><samp>My Blogs and Articles</samp></b></h4>
+ 
+ <!-- add all blogs account and profile with icon -->
+ 
+##
+ 
+<a href="https://stackoverflow.com/users/13469415/khushal-jethava"><img src="https://stackoverflow.com/users/flair/13469415.png" width="208" height="58" alt="profile for Khushal Jethava at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Khushal Jethava at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+##
  
 ![](https://visitor-badge.glitch.me/badge?page_id=khushaljethava.khushaljethava)
  
