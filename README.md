@@ -85,5 +85,6 @@ Here are some ideas to get you started:
 ##
  
 ![](https://visitor-badge.glitch.me/badge?page_id=khushaljethava.khushaljethava)
+[![GitHub Follow](https://img.shields.io/github/followers/khushaljethava?style=social&label=My%20GitHub%20Followers)](https://github.com/khushaljethava)
  
   </div>
