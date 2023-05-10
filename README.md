@@ -6,7 +6,7 @@
 <div>
 
 - 😄 <samp>Pronouns: Alien👽.
-- 🔭 <samp>I’m currently working at [SoluSoft](https://solusofttech.com/) as a ai researcher.
+- 🔭 <samp>I’m currently working at [SoluSoft](https://solusofttech.com/) as a ai developer.
 - 🏢� <samp> Founder and Mentor at [Pythonscholar](http://pythonscholar.com/).
 - ✍🏻 <samp>I write articles for the [Python Community](https://medium.com/@khushaljethwa14).
 - 💬 <samp>Ask me about Python, Artificial Intelligence & Data.
