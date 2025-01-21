@@ -7,7 +7,7 @@
 
 - 😄 <samp>Pronouns: Alien👽.
 - 🔭 <samp>I’m currently as a ai developer.
-- ✍🏻 <samp>I write articles for the [Python Community](https://medium.com/@khushaljethava_py).
+- ✍🏻 <samp>I write articles for the Python Community on [Blog](http://khushaljethava.github.io/) and  [Medium](https://medium.com/@khushaljethava_py).
 - 💬 <samp>Ask me about Python, Artificial Intelligence & Data.
 - 🥇 <samp>Open Source Enthusiast.
 - 🤔 <samp>I’m looking for help with starting Chatbot Development -->
