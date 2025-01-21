@@ -10,7 +10,7 @@
 - ✍🏻 <samp>I write articles for the Python Community on [Blog](http://khushaljethava.github.io/) and [Medium](https://medium.com/@khushaljethava_py).
 - 💬 <samp>Ask me about Python, Artificial Intelligence, and Data.
 - 🥇 <samp>Open Source Enthusiast.
-- 🤔 <samp>I’m looking for help with starting chatbot development.
+- 🤔 <samp>I’m looking for help with starting Computer Vision development.
 - 👯 <samp>I’m looking to collaborate on projects related to Python.
 
 <!-- - ⚡ <samp>Fun fact: Trap Nation is my buddy. -->
