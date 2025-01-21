@@ -6,12 +6,13 @@
 <div>
 
 - 😄 <samp>Pronouns: Alien👽.
-- 🔭 <samp>I’m currently as a ai developer.
-- ✍🏻 <samp>I write articles for the Python Community on [Blog](http://khushaljethava.github.io/) and  [Medium](https://medium.com/@khushaljethava_py).
-- 💬 <samp>Ask me about Python, Artificial Intelligence & Data.
+- 🔭 <samp>I’m currently working as an AI Developer.
+- ✍🏻 <samp>I write articles for the Python Community on [Blog](http://khushaljethava.github.io/) and [Medium](https://medium.com/@khushaljethava_py).
+- 💬 <samp>Ask me about Python, Artificial Intelligence, and Data.
 - 🥇 <samp>Open Source Enthusiast.
-- 🤔 <samp>I’m looking for help with starting Chatbot Development -->
+- 🤔 <samp>I’m looking for help with starting chatbot development.
 - 👯 <samp>I’m looking to collaborate on projects related to Python.
+
 <!-- - ⚡ <samp>Fun fact: Trap Nation is my buddy. -->
 <!-- - 👯 <samp>I’m looking to collaborate on **Open Source Projects** -->
 <!-- - ⚡ <samp>I’m a organiser of [Flutter Chandigarh](https://github.com/flutterchandigarh) & [Flutter India](https://flutterindia.dev/). -->
