@@ -1,0 +1,844 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://khushaljethava.github.io/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/categories/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/tags/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/archives/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/about/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/privacy-policy/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/Terms-and-Conditions/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/contact-us/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/python-set-update%28%29/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/python-set-union%28%29/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/python-set-symmetric_difference_update%28%29/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/python-set-symmetric_difference%28%29/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/python-set-remove%28%29/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/python-set-pop%28%29/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/python-set-issuperset%28%29/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/python-set-issubset%28%29/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/python-set-isdisjoint%28%29/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/python-set-intersection_update%28%29/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/tags/built-in-reference/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/tags/python/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/tags/python-set-reference/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/tags/python-dictionary-reference/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/tags/python-list-reference/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/tags/ai/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/tags/python-tuple-reference/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/categories/built-in-reference/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/categories/genai/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/categories/python/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/categories/python-dictionary-reference/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/categories/python-list-reference/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/categories/python-set-reference/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/categories/python-tuple-reference/</loc>
+	<lastmod>2025-01-30T14:21:50+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/python-set-intersection%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Tuple-index%28%29-Method/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Tuple-count%28%29-Method/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-set-discard%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-set-difference%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-set-copy%28%29-Method/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-set-clear%28%29-Method/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-add%28%29-method/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-set-difference_update%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-5-Python-List-insert%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-4-Python-List-extend%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-3-Python-List-copy%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-2-Python-List-clear%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-1-Python-List-append%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-11-Python-Dictionary-values%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-10-Python-Dictionary-update%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-9-Python-Dictionary-setdefault%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-8-Python-Dictionary-popitem%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-7-Python-Dictionary-pop%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-6-Python-Dictionary-keys%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-5-Python-Dictionary-items%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-4-Python-Dictionary-get%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-3-Python-Dictionary-fromkeys%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-2-Python-Dictionary-copy%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-1-Python-Dictionary-clear%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-complex%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-compile%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-classmethod%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-68-Python-__import__%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-67-Python-zip%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-66-Python-vars%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-65-Python-type%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-64-Python-tuple%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-63-Python-super%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-62-Python-sum%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-61-Python-str%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-60-Python-staticmethod%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-59-Python-sorted%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-59-Python-slice%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-58-Python-setattr%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-57-Python-set%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-56-Python-round%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-55-Python-reversed%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-54-Python-repr%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-53-Python-range%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-52-Python-property%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-51-Python-print%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-50-Python-pow%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-49-Python-ord%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-48-Python-open%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-47-Python-oct%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-46-Python-object%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-45-Python-next%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-44-Python-min%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-43-Python-memoryview%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-42-Python-max%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-41-Python-map%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-40-Python-locals%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-39-Python-list%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-38-Python-len%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-37-Python-iter%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-36-Python-issubclass%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-35-Python-isinstance%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-34-Python-int%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-33-Python-input%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-32-Python-id%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-31-Python-hex%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-30-Python-help%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-29-Python-hash%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-28-Python-hasattr%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-27-Python-globals%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-26-Python-getattr%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-25-Python-frozenset%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-24-Python-format%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-23-Python-float%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-22-Python-filter%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-21-Python-exec%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-20-Python-eval%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-19-Python-enumerate%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-18-Python-divmod%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-17-Python-dir%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Page-16-Python-dict%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-chr%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-callable%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-bytes%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-bytearray%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-bool%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-bin%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-ascii%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-any%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-all%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-abs%28%29/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Docstrings/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Recursion-Function/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Function-with-Argument/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Function/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Dictionary/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Tuple/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Lambda-Function/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Set/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-List/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-String/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-pass-statement/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Break-and-continue/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Range/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-While-loop/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-For-Loop/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Conditional-Statement/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Input-and-Output/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Operators/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/What-is-Python/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Simple-Guide-How-to-Change-Font-Size-in-Python/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-print-function/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Variables/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Type-Conversion-and-Type-Casting/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Keywords-and-Identifiers/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Python-Comments/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Installation-of-Python/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/How-to-calculate-coefficient-of-variation-in-Python/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/First-Python-Program/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Data-Types/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Beginner-Guide-to-LangChain-in-Python/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/posts/Basic-Syntax/</loc>
+	<lastmod>2025-01-30T14:21:52+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/page2/</loc>
+	<lastmod>2025-01-30T14:21:55+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/page3/</loc>
+	<lastmod>2025-01-30T14:21:55+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/page14/</loc>
+	<lastmod>2025-01-30T14:21:55+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/page4/</loc>
+	<lastmod>2025-01-30T14:22:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/page13/</loc>
+	<lastmod>2025-01-30T14:22:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/page12/</loc>
+	<lastmod>2025-01-30T14:22:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/page5/</loc>
+	<lastmod>2025-01-30T14:22:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/page11/</loc>
+	<lastmod>2025-01-30T14:22:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/page6/</loc>
+	<lastmod>2025-01-30T14:22:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/page10/</loc>
+	<lastmod>2025-01-30T14:22:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/page7/</loc>
+	<lastmod>2025-01-30T14:22:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/page9/</loc>
+	<lastmod>2025-01-30T14:22:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://khushaljethava.github.io/page8/</loc>
+	<lastmod>2025-01-30T14:22:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
